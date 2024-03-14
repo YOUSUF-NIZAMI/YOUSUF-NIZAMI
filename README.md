@@ -1,4 +1,4 @@
-### Hi there 👋, Iam YOUSUF NIZAMI
+### Hi there 👋, IM YOUSUF NIZAMI
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
