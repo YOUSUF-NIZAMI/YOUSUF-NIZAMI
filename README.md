@@ -25,7 +25,7 @@
 | **Frontend** | `Next.js`, `React.js`, `Tailwind CSS`, `Framer Motion`, `TypeScript` |
 | **Backend** | `Python`, `FastAPI`, `Node.js`, `Celery`, `PostgreSQL` |
 | **Cloud & DevOps** | `AWS S3`, `Docker`, `Vercel`, `Linux (Ubuntu)`, `Git` |
-| **Desktop UI** | `PyQt6`, `CustomTkinter` |
+| **Desktop UI** | `Electron`, `PyQt6`, `CustomTkinter` |
 
 ---
 
