@@ -9,12 +9,12 @@
 ---
 
 ### 🧠 About Me
-আমি একজন **AI Visionary** এবং **Founder**, বর্তমানে **Yousmind AI**-এর মাধ্যমে কন্টেন্ট ক্রিয়েশন ইকোসিস্টেমকে রিডিফাইন করছি। আমি জটিল অটোমেশন ইঞ্জিন তৈরি করতে এবং সেগুলোকে সুন্দর ইউজার ইন্টারফেসে রূপান্তর করতে পছন্দ করি।
+আমি একজন **AI Visionary** এবং **Founder**, বর্তমানে **Yousmind AI**-এর মাধ্যমে কন্টেন্ট ক্রিয়েশন ইকোসিস্টেমকে রিডিফাইন করছি। আমি জটিল অটোমেশন ইঞ্জিন তৈরি করতে এবং সেগুলোকে আধুনিক স্কেলেবল সিস্টেমে রূপান্তর করতে পছন্দ করি।
 
 - 🔭 **Current Project:** Scaling **Yousmind AI** (YouTube Automation Platform).
-- ⚡ **Expertise:** AI-Driven Automation, Video Synthesis, and Scalable Architectures.
-- 🎯 **Goal:** Making AI content creation accessible and effortless for everyone.
-- 🛠️ **Tech Stack:** Specialized in production-ready Python and Next.js environments.
+- ⚡ **Focus:** Full-Stack Architecture & Content Automation Workflow.
+- 🎯 **Goal:** Building high-impact AI tools for the global creator economy.
+- 🛠️ **Expertise:** Production-ready systems using **Next.js** and **Python**.
 
 ---
 
@@ -22,32 +22,27 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | `Next.js`, `React.js`, `Tailwind CSS`, `Framer Motion` |
-| **Backend** | `Python`, `FastAPI`, `Flask`, `Celery`, `PostgreSQL` |
-| **AI & Automation** | `Gemini API`, `Together AI`, `TTS (ElevenLabs/Coqui)`, `FFmpeg` |
-| **Cloud & DevOps** | `AWS S3`, `Docker`, `Vercel`, `Linux (Ubuntu)` |
+| **Frontend** | `Next.js`, `React.js`, `Tailwind CSS`, `Framer Motion`, `TypeScript` |
+| **Backend** | `Python`, `FastAPI`, `Node.js`, `Celery`, `PostgreSQL` |
+| **Cloud & DevOps** | `AWS S3`, `Docker`, `Vercel`, `Linux (Ubuntu)`, `Git` |
 | **Desktop UI** | `PyQt6`, `CustomTkinter` |
 
 ---
 
-### 📊 Professional Insights
-
+### 📊 GitHub Insights & Statistics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Yousuf's Stats" width="480" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUSUF-NIZAMI&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
 </p>
-
 ---
 
-### 🌐 Yousmind AI Modules
-- 📝 **Auto Script:** Context-aware script generation using LLMs.
-- 🎙️ **Auto Voice:** High-fidelity TTS with emotional depth.
-- 🎬 **Auto Video:** Dynamic scene stitching and overlay automation.
-- 🖼️ **Auto Thumbnail:** AI-generated high-CTR visual assets.
+### 🌐 Yousmind AI — Core Ecosystem
+- ⚙️ **Automated Workflow:** End-to-end automation from concept to final render.
+- 🛡️ **Scalable Infrastructure:** Designed to handle high-concurrency media processing.
+- 🎨 **Smart UI/UX:** Clean, intuitive dashboards for effortless content management.
 
 ---
 
@@ -68,5 +63,5 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer" width="100%"/>
 </p>
