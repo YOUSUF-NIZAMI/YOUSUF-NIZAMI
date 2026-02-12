@@ -1,67 +1,72 @@
-### Hi there 👋, I'M YOUSUF NIZAMI
-<p align="center">
-  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-017e40?style=flat-square&logo=bangladesh&logoColor=white">
+# ⚡ Hello, I'm YOUSUF NIZAMI 
+### 🚀 Founder of [YOUSMIND AI](https://yousmind.com) | AI System Architect | Full-Stack Developer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Building_the_Future-00ff88?style=for-the-badge&logo=rocket&logoColor=black">
+  <img src="https://img.shields.io/badge/Location-Bangladesh-017e40?style=for-the-badge&logo=bangladesh&logoColor=white">
 </p>
 
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
+---
 
-#### 🧠 FOUNDER OF **YOUSMIND AI** — BANGLADESHI NEXT-GEN AI PLATFORM 🇧🇩
-> 🚀 Automating YouTube Content Creation | TTS | Shorts | Thumbnails | Full AI Stack
+### 🧠 About Me
+আমি একজন **AI Visionary** এবং **Founder**, বর্তমানে **Yousmind AI**-এর মাধ্যমে কন্টেন্ট ক্রিয়েশন ইকোসিস্টেমকে রিডিফাইন করছি। আমি জটিল অটোমেশন ইঞ্জিন তৈরি করতে এবং সেগুলোকে সুন্দর ইউজার ইন্টারফেসে রূপান্তর করতে পছন্দ করি।
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=24&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+YOUSUF+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+YOUSUF-NIZAMI+😊;Founding+Yousmind+AI+🧠+✨;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+- 🔭 **Current Project:** Scaling **Yousmind AI** (YouTube Automation Platform).
+- ⚡ **Expertise:** AI-Driven Automation, Video Synthesis, and Scalable Architectures.
+- 🎯 **Goal:** Making AI content creation accessible and effortless for everyone.
+- 🛠️ **Tech Stack:** Specialized in production-ready Python and Next.js environments.
 
 ---
 
-### 🚧 CURRENTLY WORKING ON:
-- 🔭 **Yousmind AI**: A full-stack YouTube automation platform (Voiceover, Script, Video, Thumbnail)
-- 🛠️ Skills: `Python`, `HTML`, `AI`, `PyQt`, `TTS`, `Automation`
-- 🌱 Learning Everyday | Building Smart AI Systems
-- ⚡ Fun Fact: I call myself a "NOOB" — But I'm building PRO-level tools 😎
+### 🛠️ Professional Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `Next.js`, `React.js`, `Tailwind CSS`, `Framer Motion` |
+| **Backend** | `Python`, `FastAPI`, `Flask`, `Celery`, `PostgreSQL` |
+| **AI & Automation** | `Gemini API`, `Together AI`, `TTS (ElevenLabs/Coqui)`, `FFmpeg` |
+| **Cloud & DevOps** | `AWS S3`, `Docker`, `Vercel`, `Linux (Ubuntu)` |
+| **Desktop UI** | `PyQt6`, `CustomTkinter` |
 
 ---
 
-### 🏆 GitHub Stats & Badges
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://github.com/sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUSUF-NIZAMI&theme=onedark)](https://github.com/YOUSUF-NIZAMI)
-
-![YOUSUF's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=chartreuse-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=chartreuse-dark)](https://github.com/YOUSUF-NIZAMI)
-
-![Profile views](https://gpvc.arturio.dev/YOUSUF-NIZAMI)
-
----
-
-### 🌐 YOUSMIND AI — A NEW ERA OF CONTENT CREATION
-
-> **Website:** [www.yousmind.com](https://yousmind.com)  
-> **Mission:** Automate YouTube Shorts, Voiceovers, Scripts, & Thumbnails — all powered by AI  
-> **Tech:** Python, TTS, PyQT6, Gemini API, Together AI, Amazon S3, React, Celery, Flask  
-
-🚀 Built with ❤️ in Bangladesh  
-🎯 Goal: Help creators save time and boost reach  
-🧩 Modules: Auto Script ➤ Auto Voice ➤ Auto Video ➤ Auto Thumbnail ➤ Auto Publish
-
----
-
-### 🔗 CONNECT WITH ME
-
-[![GitHub](https://img.shields.io/badge/Github-black?logo=Github&logoColor=white)](https://github.com/YOUSUF-NIZAMI)
-[![Facebook](https://img.shields.io/badge/Facebook-kingmaker-blue?logo=Facebook&logoColor=white)](https://www.facebook.com/im.not.a.king.bt.im.kingmeker)
-
----
+### 📊 Professional Insights
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUSUF-NIZAMI&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+</p>
+
+---
+
+### 🌐 Yousmind AI Modules
+- 📝 **Auto Script:** Context-aware script generation using LLMs.
+- 🎙️ **Auto Voice:** High-fidelity TTS with emotional depth.
+- 🎬 **Auto Video:** Dynamic scene stitching and overlay automation.
+- 🖼️ **Auto Thumbnail:** AI-generated high-CTR visual assets.
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/YOUSUF-NIZAMI" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://yousmind.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-007AFF?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/im.not.a.king.bt.im.kingmeker" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=150&section=footer" width="100%"/>
+</p>
