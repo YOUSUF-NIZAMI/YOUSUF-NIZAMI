@@ -34,15 +34,6 @@ Yousmind AI is a unified operating system for generative media. It is designed w
 
 ---
 
-### Analytical Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="350" />
-</p>
-
 ---
 
 ### Contact and Collaboration
