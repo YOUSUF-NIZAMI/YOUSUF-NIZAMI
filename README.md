@@ -36,11 +36,11 @@ Yousmind AI is a unified operating system for generative media. It is designed w
 
 ### Analytical Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=0f172a&text_color=64748b&icon_color=6366f1" alt="GitHub Stats" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUSUF-NIZAMI&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" width="480" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=transparent&hide_border=true&title_color=0f172a&text_color=64748b" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSUF-NIZAMI&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="350" />
 </p>
 
 ---
