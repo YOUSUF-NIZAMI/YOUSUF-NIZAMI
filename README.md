@@ -34,8 +34,6 @@ Yousmind AI is a unified operating system for generative media. It is designed w
 
 ---
 
----
-
 ### Contact and Collaboration
 I am open to discussions regarding AI architecture, scalable systems, and strategic partnerships.
 
